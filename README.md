@@ -9,26 +9,6 @@
 [![TMDb](https://img.shields.io/badge/TMDb-API-01D277?style=for-the-badge&logo=themoviedatabase&logoColor=white)](https://www.themoviedb.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-<br/>
-
-```
-    ##   ##   ####   ##   ##  ##  #####
-    ### ###  ##  ##  ##   ##  ##  ##
-    ## # ##  ##  ##  ##   ##  ##  ####
-    ##   ##  ##  ##   ## ##   ##  ##
-    ##   ##   ####     ###    ##  #####
-
-    ##   ##    ###    ##   ##    ###     ####   #####  ####
-    ### ###   ## ##   ###  ##   ## ##   ##      ##     ##  ##
-    ## # ##  ##   ##  ## # ##  ##   ##  ## ###  ####   ####
-    ##   ##  #######  ##  ###  #######  ##  ##  ##     ## ##
-    ##   ##  ##   ##  ##   ##  ##   ##   ####   #####  ##  ##
-
-                           P R O
-```
-
-<br/>
-
 [Features](#-features) •
 [Installation](#-installation) •
 [Quick Start](#-quick-start) •
